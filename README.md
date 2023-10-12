@@ -8,6 +8,9 @@
 -   **28.09**: [Associative Memory](https://consurvey.sowi.uni-mannheim.de/publix/928/start?batchId=1251&generalMultiple)
 -   **05.10**: [Missinformation Effect](https://consurvey.sowi.uni-mannheim.de/publix/930/start?batchId=1253&generalMultiple)
 -   **12.10**: [Retrieval Induced Forgetting](https://consurvey.sowi.uni-mannheim.de/publix/YxyNguP0C5m)
+-   **19.10** [Base Rate Neglect](https://consurvey.sowi.uni-mannheim.de/publix/LKbZjl5aNBn)  
+
+
 
 <br/><br/><br/><br/>
 
