@@ -9,7 +9,7 @@
 -   **05.10**: [Missinformation Effect](https://consurvey.sowi.uni-mannheim.de/publix/930/start?batchId=1253&generalMultiple)
 -   **12.10**: [Retrieval Induced Forgetting](https://consurvey.sowi.uni-mannheim.de/publix/YxyNguP0C5m)
 -   **19.10** [Base Rate Neglect](https://consurvey.sowi.uni-mannheim.de/publix/LKbZjl5aNBn)  
-
+-   **26.10** [Revelation Effect](https://consurvey.sowi.uni-mannheim.de/publix/P4MbdQr5zrZ)  +  [Validity Effect 1](https://consurvey.sowi.uni-mannheim.de/publix/suGk6bWc6f3)  
 
 
 <br/><br/><br/><br/>
